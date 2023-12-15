@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import { computedAsync } from '@vueuse/core'
+
 import type { Job } from '../types'
 import { slugify } from '../utils'
 

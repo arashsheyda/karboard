@@ -1,7 +1,7 @@
 {
   "name": "karboard",
   "type": "module",
-  "version": "0.0.1-beta",
+  "version": "0.0.2-beta",
   "description": "Kar-Board is a Nuxt 3 template for creating job board websites less than a minute.",
   "funding": "https://github.com/sponsors/arashsheyda",
   "repository": {
