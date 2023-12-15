@@ -19,7 +19,7 @@ defineNuxtConfig({
 })
 ```
 
-create an `app.config.ts` and configure it. for more info check [./nuxt.config.ts](https://github.com/arashsheyda/karboard/blob/main/nuxt.config.ts)
+create an `app.config.ts` and configure it. for more info check [./nuxt.schema.ts](https://github.com/arashsheyda/karboard/blob/main/nuxt.schema.ts)
 
 ## TODO
 Improvements for future:
