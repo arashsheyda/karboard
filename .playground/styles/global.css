@@ -1,0 +1,9 @@
+.logo {
+  filter: drop-shadow(3px 0px 13px #5EC36A);
+  transition: all 0.3s ease;
+}
+
+.logo:hover {
+  filter: drop-shadow(0px 0px 7px #5EC36A);
+  transform: scale(1.3);
+}
